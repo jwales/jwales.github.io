@@ -4,12 +4,12 @@
 
 body {
   background: #8dc6dd;
-  font-family: "HelveticaNeue-Light", "Helvetica Neue Light", "Helvetica Neue", Helvetica, Arial, "Lucida Grande", sans-serif;
+  font-family: "Cabin", "HelveticaNeue-Light", "Helvetica Neue Light", "Helvetica Neue", Helvetica, Arial, "Lucida Grande", sans-serif;
 }
 
 .info {
   font-size: 40px;
   color: #fff;
-  width: 200px;
-  margin: 200px auto;
+  width: 300px;
+  margin: 300px auto;
 }
