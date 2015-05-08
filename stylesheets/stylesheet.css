@@ -10,6 +10,28 @@ body {
 .info {
   font-size: 40px;
   color: #fff;
-  width: 300px;
+  width: 400px;
   margin: 300px auto;
+}
+
+h1 {
+  font-size: 50px;
+  margin-bottom: 0px;
+}
+
+h3 {
+  font-size: 14px;
+}
+
+a {
+  color: #fff;
+}
+
+.footer {
+  font-size: 14px;
+  color: #fff;
+  opacity: .8;
+  position: absolute;
+  bottom: 3px;
+  right: 5px;
 }
